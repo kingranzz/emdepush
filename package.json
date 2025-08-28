@@ -7,7 +7,7 @@
         "start": "node z.js"
     },
     "dependencies": {
-       "@whiskeysockets/baileys": "npm:@tamainfinity/custom-baileys",
+       "@whiskeysockets/baileys": "github:Bealxvasion/xatanical-baileys",
        "axios": "^1.6.0",
        "body-parser": "^1.20.3",
         "fs": "latest",
